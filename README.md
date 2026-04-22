@@ -10,4 +10,4 @@ The solution includes a native C++ project that builds a DLL and a C# console ap
 - The generated `NativeLib.dll` must be copied into the C# output folder:
   `bin\x64\Debug\net8.0\`
 - All projects in the solution were configured to use **x64**.
-- This example was created based on the video [**“Project Setup and Hello World - P/INVOKE WITH C# AND C++”**](https://www.youtube.com/watch?v=NKIdxJAbr0Q), which demonstrates a simple Hello World application using P/Invoke with a C++ DLL and C#. :contentReference[oaicite:0]{index=0}
+- This example was created based on the video [**“Project Setup and Hello World - P/INVOKE WITH C# AND C++”**](https://www.youtube.com/watch?v=NKIdxJAbr0Q), which demonstrates a simple Hello World application using P/Invoke with a C++ DLL and C#.
